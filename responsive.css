@@ -1,0 +1,75 @@
+@charset "utf-8";
+
+@media(max-width: 992px){
+	/* start top header code */
+	.tag-line{
+		font-size: 16px;
+		
+	}
+	.search-btn{
+		font-size: 12+px;
+	}
+	.login-signup{
+		font-size: 12px;
+	}
+	#upload-btn{
+		font-size: 14px;
+	}
+	.cate-txt,.view-btn{
+		font-size: 24px;
+	}
+	/* end top header code */
+}
+
+
+@media(max-width: 768px){
+	/* start top header */
+	.tag-line{
+		font-size: 8px;
+		
+	}
+	
+	.searchbar{
+		width:80%;
+		height: 30px;
+		font-size: 10px;
+	}
+	.search-btn{
+		widows: 20%;
+		height: 30px;
+		font-size: 7px;
+	}
+	.login-signup{
+		font-size: 10px;
+	}
+	#upload-btn{
+		font-size: 10px;
+	}
+	.cate-txt,.view-btn{
+		font-size: 16px;
+	}
+	/* end top header code */
+	.price-btn{
+		font-size: 12px;
+	}
+	
+}
+
+
+
+
+@media(min-width:992px){
+	.navbar-nav li{
+	margin-left: 45px;
+}
+}
+
+@media(max-width: 576px){
+	.price-btn{
+		font-size: 10px;
+	}
+}
+
+
+
+

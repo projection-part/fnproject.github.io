@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+@media(min-width: 768px){
+	.cs-price-btn{
+		margin-left: 40px;
+	}
+}
+@media(max-width: 768px){
+	.cs-price-btn{
+		margin-left: 25px;
+		font-size: 10px;
+	}
+}
+@media(max-width: 576px){
+	.cs-price-btn{
+		font-size: 8px;
+		margin-left: 20px;
+	}
+}
